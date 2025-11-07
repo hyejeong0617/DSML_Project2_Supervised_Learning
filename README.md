@@ -6,7 +6,7 @@ Predicting house prices using **supervised regression models** on the King Count
 
 **Source:** [King County House Prices Dataset – Kaggle](https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa)
 
-This dataset includes homes sold in King County (Seattle area) with detail features such as:
+This dataset includes house sold in King County (Seattle area) with detail features such as:
 - Bedrooms, bathrooms, living area 
 - Floors, condition, grade, and location coordinates (latitude, longitude)
 - Year built and renovated
@@ -27,7 +27,7 @@ This dataset includes homes sold in King County (Seattle area) with detail featu
 
 ## 🧭 Project Workflow Overview
 
-### 🔹 **Part I – Data Preprocessing**
+### 🔹 **Part I – Data Preprocessing and feature engineering**
 This notebook focuses on preparing and understanding the dataset before modeling.
 
 1. **Data Cleaning & Exploration**
@@ -37,7 +37,6 @@ This notebook focuses on preparing and understanding the dataset before modeling
 
 2. **Feature Selection & Engineering**
    - Identified important predictors using correlation analysis and feature importance.
-   - Created new engineered features and dropped irrelevant ones.
    - Prepared clean and processed data for modeling.
 
 ---
@@ -122,6 +121,6 @@ Compared the two top-performing ensemble models — **Random Forest** and **XGBo
 
 **Hyejeong Hayley Lee**  
 📧 hyejeong0617@gmail.com
-Github: https://github.com/hyejeong0617
+
 
 
