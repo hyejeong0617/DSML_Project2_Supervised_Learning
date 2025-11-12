@@ -113,7 +113,8 @@ Compared the two top-performing ensemble models — **Random Forest** and **XGBo
 
 - **Part I:** Data cleaning & feature engineering → `Part_I_Data_Preprocessing.ipynb`  
 - **Part II:** Modeling & evaluation → `Part_II_Modeling_and_Evaluation.ipynb`  
-- **Presentation:** Key insights → `presentation.pdf`  
+- **Presentation:** Key insights → `Project2_presentation(Hayley).pdf` (improved and privately made for own data analysis and model training)
+- *GroupPresentation: → `Groupwork_presentation.pdf` (used for presentation during the course)
 
 ---
 
